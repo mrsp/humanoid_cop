@@ -1,0 +1,10 @@
+#Robot Frames (CHECK URDF)
+
+#ROS Topic Names
+lFT_topic: "/ihmc_ros/valkyrie/output/foot_force_sensor/left"
+rFT_topic: "/ihmc_ros/valkyrie/output/foot_force_sensor/right"
+rcop_topic: "/ihmc_ros/valkyrie/output/cop/right"
+lcop_topic: "/ihmc_ros/valkyrie/output/cop/left"
+
+FT_topic_freq: 500  #Hz
+
